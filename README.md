@@ -1,7 +1,7 @@
 # Hi, I'm Jinal More 👩‍💻  
 
-🎓 **B.Tech in Computer Engineering (2024–2028)** | Dharmsinh Desai University (DDU), Nadiad  
-🎓 **Diploma in Information Technology (2021–2024)** | The Maharaja Sayajirao University of Baroda (MSU)  
+🎓 **B.Tech in Computer Engineering (2025–2028)** | Dharmsinh Desai University (DDU), Nadiad  
+🎓 **Diploma in Information Technology (2021–2025)** | The Maharaja Sayajirao University of Baroda (MSU)  
 
 ---
 
