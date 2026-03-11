@@ -1,44 +1,77 @@
-# Hi, I'm Jinal More 👩‍💻  
-
-🎓 **B.Tech in Computer Engineering (2025–2028)** | Dharmsinh Desai University (DDU), Nadiad  
-🎓 **Diploma in Information Technology (2021–2025)** | The Maharaja Sayajirao University of Baroda (MSU)  
+<h1 align="center">Hi 👋, I'm Jinal More</h1>
+<h3 align="center">Computer Engineering Student | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-## 💡 About Me
-I am a passionate learner and tech enthusiast, currently focused on strengthening my foundation in **Computer Engineering** and applying it to real-world projects.  
-My long-term goal is to grow into a skilled engineer capable of solving complex problems and contributing to impactful innovations in the tech industry.  
+## 🎓 Education
+
+🎓 **Diploma in Information Technology (2021 – 2025)**  
+The Maharaja Sayajirao University of Baroda (MSU)
+
+🎓 **B.Tech in Computer Engineering (2025 – 2028)**  
+Dharmsinh Desai University (DDU), Nadiad
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Programming Languages:** Python, Java, C, C++, .NET  
-- **Web Development:** HTML, CSS, JavaScript, Full Stack Development  
-- **Core CS Subjects:** Data Structures & Algorithms (DSA), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN), Software Engineering  
-- **Areas of Interest:** Competitive Coding, System Design, Cybersecurity basics  
+## 👩‍💻 About Me
+
+- Passionate Computer Engineering student interested in building useful software.
+- Currently strengthening fundamentals in **Data Structures, Algorithms and Core CS subjects**.
+- Interested in **Full Stack Development and Problem Solving**.
+- Actively participating in **Hackathons and coding competitions**.
 
 ---
 
-## 🪖 NCC Achievement
-- Successfully completed **National Cadet Corps (NCC) – 'B' Certificate**  
-- Earned the rank of **Lance Corporal (LCPL)**  
+## 🚀 Languages & Tools
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🌱 Current Focus
-- 📌 **Strengthening Core CE Subjects:** DSA, OS, DBMS, CN, and Software Engineering.  
-- 📌 **Improving Coding Proficiency:** Enhancing problem-solving in C, C++, Java, and Python.  
-- 📌 **Hackathons & Competitions:** Actively participating to gain practical exposure and teamwork experience.  
-- 📌 **Project Development:** Building scalable and efficient applications using full-stack technologies.  
-- 📌 **Career Growth:** Focusing on technical depth along with communication, leadership, and teamwork skills.  
+## 📚 Core Subjects
+
+- Data Structures & Algorithms  
+- Database Management Systems (DBMS)  
+- Operating Systems  
+- Computer Networks  
+- Software Engineering  
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
-- **LinkedIn:**   
-(https://www.linkedin.com/in/jinal-more-b5a040363/)
+- Successfully completed **NCC 'B' Certificate**
+- Achieved rank of **Lance Corporal (LCPL)** in NCC
+- Participating in **Hackathons and technical events**
 
+---
 
-- **Devfolio:**
-  (https://devfolio.co/@Jinal19)
+## 🎯 Current Focus
+
+- Improving **DSA and problem solving**
+- Building **real world full stack projects**
+- Learning **system design basics**
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/jinal-more-b5a040363/
+
+🚀 Devfolio  
+https://devfolio.co/@jinal19
+
+📧 Email  
+jinalmore019@gmail.com
