@@ -41,5 +41,4 @@ My long-term goal is to grow into a skilled engineer capable of solving complex 
 
 
 - **Devfolio:**
-  
-(https://devfolio.co/@Jinal19)
+  (https://devfolio.co/@Jinal19)
