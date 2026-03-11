@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jinal More</h1>
-<h3 align="center">Computer Engineering Student | Full Stack Learner | Problem Solver</h3>
+<h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-Building impactful tech solutions • Learning new technologies • Participating in Hackathons
+Passionate about technology, coding and building useful software.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Interested in **Full Stack Development**
-- 🧠 Currently learning **Data Structures & Algorithms**
-- 🚀 Actively participating in **Hackathons**
-- 🌱 Always exploring new technologies
+- 🎓 Computer Engineering Student  
+- 💻 Interested in **Software Development and Problem Solving**  
+- 🌱 Currently learning **Data Structures and Algorithms**  
+- 🚀 Participating in **Hackathons and Technical Events**  
+- 🤝 Open to learning new technologies and collaborations  
 
 ---
 
@@ -27,40 +27,28 @@ Dharmsinh Desai University (DDU), Nadiad
 
 ---
 
-## 🚀 Languages & Tools
+## 💻 Programming Languages
 
 <p>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=c,java,python"/>
 </p>
 
 ---
 
-## 📚 Core Computer Science Subjects
+## 🛠 Technologies & Tools
 
-- Data Structures & Algorithms  
-- Database Management Systems (DBMS)  
-- Operating Systems  
-- Computer Networks  
-- Software Engineering  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+## 📚 Core Subjects
 
-- NCC **'B' Certificate Holder**
-- Rank: **Lance Corporal (LCPL)** in NCC
-- Actively participating in **Hackathons & Tech Events**
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
 
 ---
 
@@ -99,4 +87,4 @@ jinalmore019@gmail.com
 
 ---
 
-⭐ *Always excited to collaborate on projects, hackathons and innovative ideas.*
+⭐ Always interested in learning, building projects and participating in hackathons.
