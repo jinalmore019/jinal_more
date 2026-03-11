@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-Passionate about technology, coding and building useful software.
+Passionate about coding, learning new technologies and building useful software.
 </p>
 
 ---
@@ -11,9 +11,9 @@ Passionate about technology, coding and building useful software.
 
 - 🎓 Computer Engineering Student  
 - 💻 Interested in **Software Development and Problem Solving**  
-- 🌱 Currently learning **Data Structures and Algorithms**  
 - 🚀 Participating in **Hackathons and Technical Events**  
-- 🤝 Open to learning new technologies and collaborations  
+- 🌱 Currently learning **Data Structures and Algorithms**  
+- 🤝 Open to learning new technologies and collaboration  
 
 ---
 
@@ -30,7 +30,7 @@ Dharmsinh Desai University (DDU), Nadiad
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 </p>
 
 ---
@@ -38,17 +38,17 @@ Dharmsinh Desai University (DDU), Nadiad
 ## 🛠 Technologies & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github"/>
 </p>
 
 ---
 
-## 📚 Core Subjects
+## 📚 Skills & Knowledge
 
-- Data Structures & Algorithms  
-- Database Management Systems  
-- Operating Systems  
+- Artificial Intelligence (AI)  
 - Computer Networks  
+- Web Development  
+- Full Stack Web Development  
 
 ---
 
@@ -87,4 +87,4 @@ jinalmore019@gmail.com
 
 ---
 
-⭐ Always interested in learning, building projects and participating in hackathons.
+⭐ Interested in building projects, learning new technologies and participating in hackathons.
