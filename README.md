@@ -40,5 +40,6 @@ My long-term goal is to grow into a skilled engineer capable of solving complex 
 (https://www.linkedin.com/in/jinal-more-b5a040363/)
 
 
-- **Devfolio:** 
+- **Devfolio:**
+  
 (https://devfolio.co/@Jinal19)
