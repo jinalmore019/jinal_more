@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jinal More</h1>
-<h3 align="center">Computer Engineering Student | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Full Stack Learner | Problem Solver</h3>
+
+<p align="center">
+Building impactful tech solutions • Learning new technologies • Participating in Hackathons
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Interested in **Full Stack Development**
+- 🧠 Currently learning **Data Structures & Algorithms**
+- 🚀 Actively participating in **Hackathons**
+- 🌱 Always exploring new technologies
 
 ---
 
@@ -13,18 +27,10 @@ Dharmsinh Desai University (DDU), Nadiad
 
 ---
 
-## 👩‍💻 About Me
-
-- Passionate Computer Engineering student interested in building useful software.
-- Currently strengthening fundamentals in **Data Structures, Algorithms and Core CS subjects**.
-- Interested in **Full Stack Development and Problem Solving**.
-- Actively participating in **Hackathons and coding competitions**.
-
----
-
 ## 🚀 Languages & Tools
 
 <p>
+
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -35,11 +41,12 @@ Dharmsinh Desai University (DDU), Nadiad
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📚 Core Subjects
+## 📚 Core Computer Science Subjects
 
 - Data Structures & Algorithms  
 - Database Management Systems (DBMS)  
@@ -51,17 +58,31 @@ Dharmsinh Desai University (DDU), Nadiad
 
 ## 🏆 Achievements
 
-- Successfully completed **NCC 'B' Certificate**
-- Achieved rank of **Lance Corporal (LCPL)** in NCC
-- Participating in **Hackathons and technical events**
+- NCC **'B' Certificate Holder**
+- Rank: **Lance Corporal (LCPL)** in NCC
+- Actively participating in **Hackathons & Tech Events**
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-- Improving **DSA and problem solving**
-- Building **real world full stack projects**
-- Learning **system design basics**
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jinalmore019&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinalmore019&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jinalmore019&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -75,3 +96,7 @@ https://devfolio.co/@jinal19
 
 📧 Email  
 jinalmore019@gmail.com
+
+---
+
+⭐ *Always excited to collaborate on projects, hackathons and innovative ideas.*
